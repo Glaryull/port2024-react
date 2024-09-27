@@ -11,17 +11,41 @@
 
 ## 사용스택
 >-react(리액트를 사용하여 사이트를 번들링하고 관리합니다.) 
+>
+>
 >`리액트는 사용자 인터페이스를 구축하기 위한 자바스크립트 라이브러리 입니다. 페이스북에서 개발되었으며, 단일 페이지 애플리케이션(Single Page Application) 개발에 주로 사용됩니다. React는 컴포넌트 기반 접근 방식을 사용하여 UI를 작성하는데 이는 재사용 가능하고 구조적으로 조직화된 코드를 작성하는데 도움을 줍니다.`
+>
+>
 >-gsap(gsap을 이용하여 패럴랙스 효과를 줍니다.)
+>
+>
 >`GSAP(GreenSock Animaition Platform)은 웹 애니메이션을 구현하기 위한 JavaScript 라이브러리입니다. GSAP은 풍부한 기능을 제공하며, 웹 요소들의 애니메이션을 부드럽고 효과적으로 제어할 수 있습니다. 웹 애니메이션과 트윈(Tween)기능을 사용하고자 할 때 주로 사용됩니다.`
+>
+>
 >-lenis(lenis를 이용하여 스무스 효과를 구현합니다.)
+>
+>
 >`@studio-freight/lenis: 이 패키지는 스무스 효과를 주기 위한 파일입니다.`
+>
+>
 >-netlify(netlify를 통해 사이트를 배포합니다.)
+>
+>
 >-git(git을 이용해 파일을 관리합니다.)
+>
+>
 >-sass
+>
+>
 >`Sass 는 CSS의 확장된 문법을 제공하는 CSS전처리기(preprocessor)입니다. Sass를 사용하면 CSS 작성 시 변수, 중첩 규칙, 함수, 믹스인 등을 활용하여 코드를 더 모듈화 하고 효율적으로 관리할 수 있습니다. Sass로 작성된 코드는 컴파일러를 통해 일반 CSS 코드로 변환되어 웹 페이지에서 사용됩니다.`
+>
+>
 >-react-router-dom
+>
+>
 >`리액트 애플리케이션에서 라우팅 기능을 제공하는 패키지입니다. 라우팅은 다른페이지로의 이동과 URL에 따른 컴포넌트의 표시를 관리하는 기능을 말합니다. react-router-dom은 주로 웹 애플리케이션에서 사용되며, 여러 경로를 정의하고 각 경로에 해당하는 컴포넌트를 렌더링하도록 도와줍니다.`
+
 ---
->- HTML, CSS 기반으로 웹사이트의 기본 레이아웃 설계하고, 웹 표준 및 웹 접근성을 준수하여 작업합니다. [ARIA(Accessible Rich Internet Applications)](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles)
+
+- HTML, CSS 기반으로 웹사이트의 기본 레이아웃 설계하고, 웹 표준 및 웹 접근성을 준수하여 작업합니다. [ARIA(Accessible Rich Internet Applications)](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles)
 
